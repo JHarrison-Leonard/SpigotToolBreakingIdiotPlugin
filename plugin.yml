@@ -1,0 +1,5 @@
+name: SpigotBlankPlugin
+main: com.shihogan.ba.ToolBreakingIdiotPlugin
+version: 0.0.1
+api-version: 1.16.1
+commands:
